@@ -18,6 +18,11 @@ I specialize in **Microsoft 365, Azure, Identity & Access Management (IAM), clou
 ![Microsoft Certified: M365 Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AchramowiczRobert-5771/F038B62AD30699E7?sharingId=D6828734B39ADE24)  
 ![ITIL Certified]()  
 
+## 🏆 Certifications  
+![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue)  
+![Microsoft Certified: M365 Fundamentals](https://img.shields.io/badge/M365-Fundamentals-blue)  
+![ITIL Certified](https://img.shields.io/badge/ITIL-Foundation-green)  
+
 
 ## 🌍 Connect with Me  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/robertachramowicz)  
