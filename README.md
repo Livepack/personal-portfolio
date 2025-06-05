@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Robert Achramowicz  
 
 🚀 **M365/Azure Cloud Consultant | Power Platform & Automation | IAM & Security | DevOps & CI/CD Enthusiast**  
@@ -13,6 +12,8 @@ I specialize in **Microsoft 365, Azure, Identity & Access Management (IAM), clou
 ✔ **Security & IAM** – Entra ID (Azure AD), Conditional Access, MFA, PIM  
 
 ## 🏆 Certifications  
+
+[![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-blue)](https://learn.microsoft.com/api/credentials/share/en-us/AchramowiczRobert/B98917DCE4C9FE2D?sharingId=D6828734B39ADE24)  
 
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Security%20%26%20Compliance-blue)](https://learn.microsoft.com/api/credentials/share/en-us/AchramowiczRobert-5771/E5349A5A35FB0A1?sharingId=D6828734B39ADE24)  
 
